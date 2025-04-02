@@ -1,0 +1,36 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 16px;
+  margin: 0 auto;
+  width: 512px;
+}
+
+h1 {
+  margin: 8px 0;
+}
+
+p {
+  margin: 8px 0;
+}
+
+h2 {
+  margin: 20px 0 8px;
+}
+
+img {
+  width: 256px;
+  height: auto;
+  border: 8px double #000;
+  display: block;
+  margin: 24px 0;
+}
+
+ul,
+ol {
+  margin: 12px 0;
+  padding: 0 16px;
+}
+
+li {
+  margin: 4px 0;
+}
