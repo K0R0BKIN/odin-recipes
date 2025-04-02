@@ -1,7 +1,6 @@
 body {
   font-family: Georgia, "Times New Roman", Times, serif;
-  padding: 16px;
-  margin: 0 auto;
+  margin: 16px auto;
   width: 512px;
 }
 
@@ -18,8 +17,6 @@ h2 {
 }
 
 img {
-  width: 256px;
-  height: auto;
   border: 8px double #000;
   display: block;
   margin: 24px 0;
